@@ -1,0 +1,17 @@
+{
+  "name": "sneaker-shop",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Kevin Lai <kevin.km.lai@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
